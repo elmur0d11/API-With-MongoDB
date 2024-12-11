@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JUZNfY6dmF9+bhaUHHrm8oF7b5u8mlKi0vNk5O0qkw0=",
+  "Source": "API-MongoDb",
+  "BasePath": "_content/API-MongoDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
